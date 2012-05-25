@@ -1,3 +1,3 @@
-name: PridePvP AntiSpawnReturn
-main: pridepvp.com.antispawnreturn.Core
+name: PridePvP-SpawnBlock
+main: com.pridepvp.spawnblock.Core
 version: 1.0
